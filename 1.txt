@@ -1,0 +1,14 @@
+1.数据分析题
+http://static.cninfo.com.cn/finalpage/2022-01-18/1212206298.PDF
+{
+	"repayment_date": "2022-01-24",
+	"remaining_principal": 20,
+	"principal_to_be_repaid": 20
+}
+根据以上的数据抽取结果，归纳总结填补下面？处。
+http://static.cninfo.com.cn/finalpage/2021-11-10/1211549988.pdf
+{
+	"repayment_date": 2021-11-18,
+	"remaining_principal":15 ,
+	"principal_to_be_repaid"：15 
+}
